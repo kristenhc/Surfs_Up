@@ -12,7 +12,7 @@ In this analysis we provide weather analyses to a prospective investor for Surf 
 - Max temp in June (85 degrees) is two degrees higher than in December (83 degrees).
 - Minimum temperature in December. (56 degrees) is 10 degrees lower than min temperature in June (64 degrees).
 
-![December Temps](Challenge_9/December_Temps.png)
+![December Temps](Challenge_9/December-Temps.png)
 
 ![June Temps](Challenge_9/June_Temps.png)
 
